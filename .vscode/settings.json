@@ -1,0 +1,26 @@
+{
+    // 指定解决方案文件
+    "dotnet.defaultSolution": "Sokoban.sln",
+    
+    // 启用C#语言服务器
+    "omnisharp.useModernNet": true,
+    
+    // 语义高亮
+    "csharp.semanticHighlighting.enabled": true,
+    "editor.semanticHighlighting.enabled": true,
+    
+    // 不显示还原通知
+    "csharp.suppressDotnetRestoreNotification": true,
+    
+    // Unity相关文件过滤
+    "files.exclude": {
+        "**/*.meta": true,
+        "Library/": true,
+        "Temp/": true,
+        "Logs/": true,
+        "obj/": true,
+        "Packages/": true,
+        "ProjectSettings/": true,
+        "UserSettings/": true
+    }
+}

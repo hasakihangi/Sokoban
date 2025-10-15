@@ -1,0 +1,13 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Restart C# Language Server",
+            "command": "${command:csharp.restartServer}",
+            "type": "shell",
+            "problemMatcher": []
+        }
+    ]
+}
+
+

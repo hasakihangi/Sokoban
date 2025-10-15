@@ -1,0 +1,9 @@
+# Cursor Rules for Unity C# Project
+
+# Enable C# language server
+enableCSharpLanguageServer: true
+
+# Use standard C# IntelliSense
+useStandardIntelliSense: true
+
+
