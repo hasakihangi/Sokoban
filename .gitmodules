@@ -1,3 +1,6 @@
 [submodule "Packages/Aurora.Timeline"]
 	path = Packages/Aurora.Timeline
 	url = https://github.com/username/Aurora.Timeline.git
+[submodule "Assets/Scripts/Aurora.Basic"]
+	path = Assets/Scripts/Aurora.Basic
+	url = https://github.com/hasakihangi/Aurora.Basic.git
