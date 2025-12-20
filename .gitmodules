@@ -4,3 +4,6 @@
 [submodule "Assets/Scripts/Aurora.Basic"]
 	path = Assets/Scripts/Aurora.Basic
 	url = https://github.com/hasakihangi/Aurora.Basic.git
+[submodule "Assets/Scripts/Aurora.Grid"]
+	path = Assets/Scripts/Aurora.Grid
+	url = https://github.com/hasakihangi/Aurora.Grid.git
